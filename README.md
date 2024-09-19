@@ -7,6 +7,7 @@ A little exercise to get started with the specification phase of the software de
 Haley Hobbs: https://github.com/haleyhobbs \
 Emma Zhu: https://github.com/ez106 \
 Jason Tran: https://github.com/huyy422 \
+Jenna Han: https://github.com/jnahan
 
 # Stakeholders
 

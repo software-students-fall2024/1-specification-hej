@@ -4,10 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Haley Hobbs: https://github.com/haleyhobbs \
-Emma Zhu: https://github.com/ez106 \
-Jason Tran: https://github.com/huyy422 \
-Jenna Han: https://github.com/jnahan
+[Haley Hobbs](https://github.com/haleyhobbs) \
+[Emma Zhu](https://github.com/ez106) \
+[Jason Tran](https://github.com/huyy422) \
+[Jenna Han](https://github.com/jnahan)
 
 # Stakeholders
 
@@ -28,7 +28,7 @@ Problems/frustrations:
 
 ## Product Vision Statement
 
-Housemate: match your living style, find your perfect roommate.
+Find your perfect roommate through effortless swiping.
 
 ## User Requirements
 

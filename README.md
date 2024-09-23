@@ -70,4 +70,4 @@ User story 1: As someone looking for new roommates, I want to create an account 
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Figma prototype](https://www.figma.com/proto/3E7kZDsYsbXGQ4gZmf9xGY/roommate-finder?page-id=0%3A1&node-id=2-37&node-type=canvas&viewport=1032%2C-262%2C0.24&t=dNPXruHfccJm1Q3V-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2%3A37)

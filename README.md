@@ -59,8 +59,8 @@ Housemate: modernized apartment hunting to find your next home and roommates all
 
 
 ## Activity Diagrams
-
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+User story 4:
+![User story 4](images/AD_001.png)
 
 ## Clickable Prototype
 

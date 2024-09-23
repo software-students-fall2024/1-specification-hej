@@ -11,20 +11,20 @@ A little exercise to get started with the specification phase of the software de
 
 # Stakeholders
 
-We interviewed two NYU students: Anthony and Will. Both will be living off-campus for their second year this year. Both live with friends. From their independent interviews, we identified the following:
+We interviewed two NYU students: Anthony and Will. Both will be living off-campus for their second year this year. Both live with friends they met before moving in. From their independent interviews, we identified the following:
 
 Problems/frustrations:
 - Limited social reach: It's difficult to find roommates who aren't your friends (or friends of friends), classmates, etc. It's all just by word of mouth, which largely narrows down the pool of potential roommates. There are so many people in search of roommates but there is no efficient way (to our knowledge) of connecting them.
 - Efficiency: Finding roommates can take a lot of time and effort, and there is no streamlined process.
 - Compatibility: Even if you are able to find someone, the odds of sharing living preferences/styles aren't high
-- Getting to know them: Even if you are able to find someone, there is no natural encouragement/facilitation of getting to know each other before starting to live together. This can create tension, awkward situations, etc.
+- Getting to know them: Even if you are able to find someone, there is no natural encouragement/facilitation of getting to know each other before starting to live together. This can increase the chances of unforseeable tension, awkward situations, etc.
 
 Goals/needs:
-- A vehicle to facilitate finding potential roommates beyond the scope of their regular social circles
-- Finding roommates who share their apartment goals (budget, location, etc.)
-- Finding roommates with whom they're compatible
+- A vehicle to facilitate finding potential roommates beyond the scope of one's regular social circles
+- Finding roommates who share apartment goals (budget, location, etc.)
+- Matching/filtering roommates based on compatibility
 - The opportunity to get to know potential roommates before agreeing to live with them
-- Overall, an efficient, streamlined process of the above
+- Overall, an efficient, streamlined process of the above to make the entire apartment/roommate hunt less daunting
 
 
 ## Product Vision Statement
@@ -56,6 +56,10 @@ Find your perfect roommate through effortless swiping.
 **11.** As a user with a strict budget, I want to find a roommate who wants something in the same price range.
 
 **12.** As a user, I want to write a little bio on my profile so I am more likely to find a match.
+
+**13.** As someone new to NYC, I don't know anyone here but want to find people with whom I can live.
+
+**14.** As a college student with friends who are all dorming, I'm seeking to meet new people who are living off-campus.
 
 
 ## Activity Diagrams

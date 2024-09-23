@@ -65,6 +65,12 @@ Find your perfect roommate through effortless swiping.
 User story 1: As someone looking for new roommates, I want to create an account and set a filter on criteria such as amenities and location, so I only see users who have the same preferences.
 ![User story 1](images/AD_001.png)
 
+User Story 2: As someone looking for new roommates, I want to be able to look through multiple profiles and match with others who are also interested in living with me.
+![User Story 2](images/AD#002.png)
+
+## Wireframes
+![Wireframes](images/Wireframes.png)
+
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Figma prototype](https://www.figma.com/proto/3E7kZDsYsbXGQ4gZmf9xGY/roommate-finder?page-id=0%3A1&node-id=2-37&node-type=canvas&viewport=1032%2C-262%2C0.24&t=dNPXruHfccJm1Q3V-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2%3A37)

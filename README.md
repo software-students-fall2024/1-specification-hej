@@ -65,6 +65,9 @@ Find your perfect roommate through effortless swiping.
 User story 1: As someone looking for new roommates, I want to create an account and set a filter on criteria such as amenities and location, so I only see users who have the same preferences.
 ![User story 1](images/AD_001.png)
 
+## Wireframes
+![Wireframes](images/Wireframes.png)
+
 ## Clickable Prototype
 
 See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.

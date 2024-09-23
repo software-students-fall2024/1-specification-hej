@@ -66,7 +66,7 @@ User story 1: As someone looking for new roommates, I want to create an account 
 ![User story 1](images/AD_001.png)
 
 User Story 2: As someone looking for new roommates, I want to be able to look through multiple profiles and match with others who are also interested in living with me.
-![User Story 2](images/AD#002.png)
+![User Story 2](images/AD_002.png)
 
 ## Wireframes
 ![Wireframes](images/Wireframes.png)

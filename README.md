@@ -50,7 +50,7 @@ Find your perfect roommate through effortless swiping.
 
 **9.** As a user looking for a roommate, I want to be able to see pictures of my potential roommate when browsing.
 
-**10.** As a user, I want to get a notification when I match with a potential roommate.
+**10.** As someone who doesn’t check their phone often, I want a section where I can see if someone matches with me after I like them.
 
 **11.** As a user with a strict budget, I want to find a roommate who wants something in the same price range.
 
@@ -59,6 +59,7 @@ Find your perfect roommate through effortless swiping.
 **13.** As someone new to NYC, I don't know anyone here but want to find people with whom I can live.
 
 **14.** As a college student with friends who are all dorming, I'm seeking to meet new people who are living off-campus.
+
 
 
 ## Activity Diagrams

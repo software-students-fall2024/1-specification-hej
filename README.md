@@ -26,20 +26,19 @@ Goals/needs:
 - The opportunity to get to know potential roommates before agreeing to live with them
 - Overall, an efficient, streamlined process of the above to make the entire apartment/roommate hunt less daunting
 
-
 ## Product Vision Statement
 
 Find your perfect roommate through effortless swiping.
 
 ## User Requirements
 
-**1.** As someone looking for new roommates, I want to be able to look through multiple profiles and match with others who are also interested in living with me.
+**1.** As someone looking for new roommates, I want to create an account and set a filter on criteria such as amenities and location, so I only see users who have the same preferences.
 
-**2.** As someone looking for new roommates, I want to be able to chat in the app with potential roommates without giving out my personal information to see if we are a good fit.
+**2.** As someone looking for new roommates, I want to be able to look through multiple profiles and match with others who are also interested in living with me.
 
 **3.** As someone looking for new roommates, I want to find a roommate with the same move-in date.
 
-**4.** As someone looking for new roommates, I want to create an account and set a filter on criteria such as amenities and location, so I only see users who have the same preferences.
+**4.** As someone looking for new roommates, I want to be able to chat in the app with potential roommates without giving out my personal information to see if we are a good fit.
 
 **5.** As someone looking for new roommates, I want to find a roommate who has the same level of cleanliness, noise level, and sleeps at the same time so I can avoid roommate conflict.
 
@@ -63,8 +62,8 @@ Find your perfect roommate through effortless swiping.
 
 
 ## Activity Diagrams
-User story 4: As someone looking for new roommates, I want to create an account and set a filter on criteria such as amenities and location, so I only see users who have the same preferences.
-![User story 4](images/AD_001.png)
+User story 1: As someone looking for new roommates, I want to create an account and set a filter on criteria such as amenities and location, so I only see users who have the same preferences.
+![User story 1](images/AD_001.png)
 
 ## Clickable Prototype
 
